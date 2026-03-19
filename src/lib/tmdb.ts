@@ -219,11 +219,11 @@ export const discoverTVShows = async (params: {
 };
 
 export const getMovieEmbedUrl = (tmdbId: number): string => {
-  return `https://vidsrc-embed.ru/embed/movie/${tmdbId}`;
+  return `https://vsembed.su/embed/movie/${tmdbId}`;
 };
 
 export const getTVEmbedUrl = (tmdbId: number, season: number, episode: number): string => {
-  return `https://vidsrc-embed.ru/embed/tv?tmdb=${tmdbId}&season=${season}&episode=${episode}`;
+  return `https://vsembed.su/embed/tv?tmdb=${tmdbId}&season=${season}&episode=${episode}`;
 };
 
 export interface Video {

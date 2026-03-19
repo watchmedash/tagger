@@ -16,7 +16,7 @@ import { useMyList } from "@/hooks/useMyList";
 import { Button } from "@/components/ui/button";
 
 const movieServers = [
-  { name: "Server 1", getUrl: (id: number) => `https://vidsrc-embed.ru/embed/movie/${id}` },
+  { name: "Server 1", getUrl: (id: number) => `https://vsembed.su/embed/movie/${id}` },
   { name: "Server 2", getUrl: (id: number) => `https://zxcstream.xyz/player/movie/${id}` },
   { name: "Server 3", getUrl: (id: number) => `https://moviesapi.to/movie/${id}` },
   { name: "Server 4", getUrl: (id: number) => `https://vidsrc.vip/embed/movie/${id}` },
