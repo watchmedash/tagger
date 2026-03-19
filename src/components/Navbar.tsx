@@ -24,30 +24,6 @@ const Navbar = () => {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  useEffect(() => {
-  if (typeof document === "undefined") return;
-
-  (function (s: HTMLScriptElement) {
-    s.dataset.zone = "10628457";
-    s.src = "https://llvpn.com/tag.min.js";
-  })(
-    [document.documentElement, document.body]
-      .filter(Boolean)
-      .pop()!
-      .appendChild(document.createElement("script"))
-  );
-
-  (function (s: HTMLScriptElement) {
-    s.dataset.zone = "10628463";
-    s.src = "https://dd133.com/vignette.min.js";
-  })(
-    [document.documentElement, document.body]
-      .filter(Boolean)
-      .pop()!
-      .appendChild(document.createElement("script"))
-  );
-}, []);
-
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
     if (searchQuery.trim()) {
