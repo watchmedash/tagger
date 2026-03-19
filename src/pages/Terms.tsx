@@ -17,14 +17,14 @@ const Terms = () => {
             <section className="space-y-4">
               <h2 className="text-xl font-semibold text-foreground">1. Acceptance of Terms</h2>
               <p>
-                By accessing and using N4ked, you accept and agree to be bound by the terms and provisions of this agreement. If you do not agree to these terms, please do not use our service.
+                By accessing and using Tagger, you accept and agree to be bound by the terms and provisions of this agreement. If you do not agree to these terms, please do not use our service.
               </p>
             </section>
 
             <section className="space-y-4">
               <h2 className="text-xl font-semibold text-foreground">2. Description of Service</h2>
               <p>
-                N4ked provides users with access to a streaming entertainment service. We reserve the right to modify, suspend, or discontinue the service at any time without notice.
+                Tagger provides users with access to a streaming entertainment service. We reserve the right to modify, suspend, or discontinue the service at any time without notice.
               </p>
             </section>
 
@@ -38,7 +38,7 @@ const Terms = () => {
             <section className="space-y-4">
               <h2 className="text-xl font-semibold text-foreground">4. Content Usage</h2>
               <p>
-                All content on N4ked is for personal, non-commercial use only. You may not copy, distribute, transmit, display, or create derivative works from any content without our express written consent.
+                All content on Tagger is for personal, non-commercial use only. You may not copy, distribute, transmit, display, or create derivative works from any content without our express written consent.
               </p>
             </section>
 
@@ -52,7 +52,7 @@ const Terms = () => {
             <section className="space-y-4">
               <h2 className="text-xl font-semibold text-foreground">6. Limitation of Liability</h2>
               <p>
-                N4ked shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of the service.
+                Tagger shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of the service.
               </p>
             </section>
 

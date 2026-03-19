@@ -16,7 +16,7 @@ const fakeReviews: Review[] = [
     name: "Sarah Mitchell",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=sarah",
     rating: 5,
-    review: "N4ked has completely changed how I watch movies! The streaming quality is incredible and the selection is unmatched. Best decision I ever made.",
+    review: "Tagger has completely changed how I watch movies! The streaming quality is incredible and the selection is unmatched. Best decision I ever made.",
     date: "2 days ago",
   },
   {
@@ -24,7 +24,7 @@ const fakeReviews: Review[] = [
     name: "James Rodriguez",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=james",
     rating: 5,
-    review: "I've tried many streaming services, but N4ked stands out with its intuitive interface and vast library. The recommendations are always spot on!",
+    review: "I've tried many streaming services, but Tagger stands out with its intuitive interface and vast library. The recommendations are always spot on!",
     date: "1 week ago",
   },
   {
@@ -48,7 +48,7 @@ const fakeReviews: Review[] = [
     name: "Lisa Thompson",
     avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=lisa",
     rating: 5,
-    review: "My whole family uses N4ked and we all find something to enjoy. From kids' shows to documentaries, there's something for everyone.",
+    review: "My whole family uses Tagger and we all find something to enjoy. From kids' shows to documentaries, there's something for everyone.",
     date: "1 month ago",
   },
   {
@@ -71,7 +71,7 @@ const UserReviews = () => {
           {t('reviews.title')}
         </h2>
         <p className="text-muted-foreground max-w-2xl mx-auto">
-          See what our community is saying about N4ked
+          See what our community is saying about Tagger
         </p>
       </div>
 

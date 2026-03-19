@@ -13,7 +13,7 @@ const About = () => {
           <div className="space-y-12">
             <section>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Welcome to N4ked, your ultimate destination for streaming movies and TV shows. We're passionate about bringing you the best entertainment experience, with a vast library of content from around the world.
+                Welcome to Tagger, your ultimate destination for streaming movies and TV shows. We're passionate about bringing you the best entertainment experience, with a vast library of content from around the world.
               </p>
             </section>
 
@@ -38,7 +38,7 @@ const About = () => {
                 <Users className="w-10 h-10 text-primary mb-4" />
                 <h3 className="text-xl font-semibold text-foreground mb-2">Community</h3>
                 <p className="text-muted-foreground">
-                  Join millions of viewers who trust N4ked for their entertainment needs.
+                  Join millions of viewers who trust Tagger for their entertainment needs.
                 </p>
               </div>
 
@@ -54,7 +54,7 @@ const About = () => {
             <section>
               <h2 className="text-2xl font-display text-foreground mb-4">Our Mission</h2>
               <p className="text-muted-foreground leading-relaxed">
-                At N4ked, we believe everyone deserves access to quality entertainment. Our mission is to provide a seamless streaming experience with a diverse catalog that caters to all tastes and preferences. Whether you're in the mood for action, comedy, drama, or documentaries, we've got you covered.
+                At Tagger, we believe everyone deserves access to quality entertainment. Our mission is to provide a seamless streaming experience with a diverse catalog that caters to all tastes and preferences. Whether you're in the mood for action, comedy, drama, or documentaries, we've got you covered.
               </p>
             </section>
 
@@ -62,8 +62,8 @@ const About = () => {
               <h2 className="text-2xl font-display text-foreground mb-4">Contact Us</h2>
               <p className="text-muted-foreground">
                 Have questions or feedback? We'd love to hear from you. Reach out to us at{" "}
-                <a href="mailto:support@n4ked.top" className="text-primary hover:underline">
-                  support@n4ked.top
+                <a href="mailto:support@tagger.top" className="text-primary hover:underline">
+                  support@tagger.top
                 </a>
               </p>
             </section>

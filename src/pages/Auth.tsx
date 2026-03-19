@@ -114,7 +114,7 @@ const Auth = () => {
       <div className="w-full max-w-md">
         <div className="text-center mb-8">
           <h1 className="text-4xl font-display text-primary tracking-wider mb-2">
-            N4KED
+            Tagger
           </h1>
           <p className="text-muted-foreground">
             {isLogin ? t('auth.signInToAccount') : t('auth.createYourAccount')}

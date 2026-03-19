@@ -22,7 +22,7 @@ const Footer = () => {
             <h4 className="text-sm font-semibold text-foreground mb-4">{t('footer.support')}</h4>
             <ul className="space-y-2">
               <li><Link to="/about" className="text-sm text-muted-foreground hover:text-foreground transition-colors">{t('footer.helpCenter')}</Link></li>
-              <li><a href="mailto:support@n4ked.top" className="text-sm text-muted-foreground hover:text-foreground transition-colors">{t('footer.contactUs')}</a></li>
+              <li><a href="mailto:support@tagger.top" className="text-sm text-muted-foreground hover:text-foreground transition-colors">{t('footer.contactUs')}</a></li>
             </ul>
           </div>
 
@@ -38,7 +38,7 @@ const Footer = () => {
             <h4 className="text-sm font-semibold text-foreground mb-4">{t('footer.company')}</h4>
             <ul className="space-y-2">
               <li><Link to="/about" className="text-sm text-muted-foreground hover:text-foreground transition-colors">{t('footer.aboutUs')}</Link></li>
-              <li><a href="mailto:support@n4ked.top" className="text-sm text-muted-foreground hover:text-foreground transition-colors">{t('footer.contact')}</a></li>
+              <li><a href="mailto:support@tagger.top" className="text-sm text-muted-foreground hover:text-foreground transition-colors">{t('footer.contact')}</a></li>
             </ul>
           </div>
         </div>
@@ -60,8 +60,8 @@ const Footer = () => {
           </div>
 
           <div className="text-center md:text-right">
-            <p className="text-2xl font-display text-primary mb-1">N4KED</p>
-            <p className="text-xs text-muted-foreground">© {new Date().getFullYear()} N4ked. {t('footer.allRightsReserved')}</p>
+            <p className="text-2xl font-display text-primary mb-1">Tagger</p>
+            <p className="text-xs text-muted-foreground">© {new Date().getFullYear()} Tagger. {t('footer.allRightsReserved')}</p>
           </div>
         </div>
       </div>

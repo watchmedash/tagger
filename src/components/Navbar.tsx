@@ -79,7 +79,7 @@ const Navbar = () => {
         <div className="flex items-center gap-8">
           <Link to="/" className="flex items-center">
             <h1 className="text-2xl lg:text-4xl font-display text-primary tracking-wider">
-              N4KED
+              Tagger
             </h1>
           </Link>
           <div className="hidden lg:flex items-center gap-8">

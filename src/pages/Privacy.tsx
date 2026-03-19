@@ -74,8 +74,8 @@ const Privacy = () => {
               <h2 className="text-xl font-semibold text-foreground">9. Contact Us</h2>
               <p>
                 If you have any questions about this privacy policy, please contact us at{" "}
-                <a href="mailto:privacy@n4ked.top" className="text-primary hover:underline">
-                  privacy@n4ked.top
+                <a href="mailto:privacy@tagger.top" className="text-primary hover:underline">
+                  privacy@tagger.top
                 </a>
               </p>
             </section>
